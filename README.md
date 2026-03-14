@@ -50,7 +50,7 @@ background:#0056b3;
 <p>This notes are written by toppers
 .which are so helpful for students who are preparing for jee main/advance.</p>
 
-<image></image>
+<image> scr=IMG-20251005-WA0000</image>
 <div class="notes">
 
 <h2>Physics</h2>
